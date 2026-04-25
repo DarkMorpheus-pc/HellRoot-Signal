@@ -11,8 +11,8 @@ BlazeRootSignal is a lightweight, high-performance messaging application develop
 * ## 📸 Interface Preview
 
 <p align="center">
-  <img src="RESİM_LİNKİ_GİRİŞ_EKRANI" width="45%" alt="Login Screen">
-  <img src="RESİM_LİNKİ_SOHBET_EKRANI" width="100%" alt="Main Chat Interface">
+  <img src="Yükleniyor" width="45%" alt="Login Screen">
+  <img src="Yükleniyor" width="100%" alt="Main Chat Interface">
 </p>
 
 ---
